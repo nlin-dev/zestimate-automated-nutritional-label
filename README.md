@@ -1,0 +1,1 @@
+Using Python, I developed a ML interpretability tool built on Zestimate to measure metrics of fairness, calibration, and base interpretation. I pre-processed, label-encoded, and cross-validated public property sale and property feature datasets and then evaluated system predictive parity, explained algorithmic classifiers, and defined aspects of model interpretability
